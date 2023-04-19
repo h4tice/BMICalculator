@@ -1,1 +1,1 @@
-Python 2023 : 100 Günlük Programlama Kampı ödevi
+Python 2023 : 100 Günlük Programlama Kampı ödevi.
